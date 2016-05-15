@@ -47,13 +47,13 @@ $(function() {
         hue += 360
       }
       var namesNums = {
-        'red': 0,
-        'Red': 360,
-        'orange': 30,
-        'yellow': 60,
-        'green': 120,
-        'blue': 240,
-        'purple': 300
+        'red, like danger': 0,
+        'Red, like danger': 360,
+        'orange, like the sun': 30,
+        'yellow, like a smiley face': 60,
+        'green, like plants': 120,
+        'blue, like the ocean': 240,
+        'purple, like a mystery': 300
       }
 
       var colors = []
